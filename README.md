@@ -6,4 +6,6 @@ This notebook is the first notebook corresponding to the "Computer Vision Fundam
 
 The heart of this notebook is the simple color thresholding of an image -- that is, only considering pixels above a certain color intensity range. (In the case of the notebook, we're concerned with white, the color of the lane lines in the image.)
 
+![Color Selection](/images/color_selection.png)
+
 As one can note, we're yet to implement any OpenCV functionality.
